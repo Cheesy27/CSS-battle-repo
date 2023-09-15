@@ -1,0 +1,36 @@
+
+
+ 
+
+  #container{
+    background: #FEFAE0;
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  div {
+    height: 200px;
+    width: 200px;
+    
+    position: absolute;
+  }
+  #c{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    left: 100px;
+    top: 50px;
+    background: #9CCCDB;
+  }
+
+  #s{
+   left: -20px;
+    top: -70px;
+    border: 20px solid #FEFAE0;
+    background-color: none;
+  }
